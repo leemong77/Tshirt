@@ -1,5 +1,0 @@
-VSC 에서
-    파일만듬
-    ADD
-    COMMIT
-    PUSH
